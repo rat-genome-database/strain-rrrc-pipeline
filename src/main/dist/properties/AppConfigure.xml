@@ -1,0 +1,7 @@
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+    <bean id="manager" class="edu.mcw.rgd.Main">
+        <property name="version" value="Strain RRRC pipeline  -- build Aug 24, 2022" />
+    </bean>
+</beans>
