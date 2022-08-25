@@ -6,7 +6,7 @@ public class RrrcRecord {
     private String strainName;
     private String geneSymbol;
     private int geneRgdId;
-    private int ncbiGeneId;
+    private String geneUrl;
     private String availability;
     private String donor;
 
@@ -42,12 +42,12 @@ public class RrrcRecord {
         this.geneRgdId = geneRgdId;
     }
 
-    public int getNcbiGeneId() {
-        return ncbiGeneId;
+    public String getGeneUrl() {
+        return geneUrl;
     }
 
-    public void setNcbiGeneId(int ncbiGeneId) {
-        this.ncbiGeneId = ncbiGeneId;
+    public void setGeneUrl(String geneUrl) {
+        this.geneUrl = geneUrl;
     }
 
     public String getAvailability() {

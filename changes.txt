@@ -1,2 +1,5 @@
+Aug 25, 2022
+ html parser complete
+
 Aug 24, 2022
  initial version of the pipeline
