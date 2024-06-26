@@ -2,6 +2,6 @@
 
 <beans>
     <bean id="manager" class="edu.mcw.rgd.Main">
-        <property name="version" value="Strain RRRC pipeline  -- build Jan 30, 2024" />
+        <property name="version" value="Strain RRRC pipeline  -- build Jun 25, 2024" />
     </bean>
 </beans>
